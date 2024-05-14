@@ -7,7 +7,7 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:304160382868:android:8245a8e637903810753981",
+        "mobilesdk_app_id": "1:::",
         "android_client_info": {
           "package_name": "com.project.sfmd_project"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCgGhCnSntbk26wYDiiNRujOnNUYACBnh0"
+          "current_key": ""
         }
       ],
       "services": {
